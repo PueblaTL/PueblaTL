@@ -1,7 +1,5 @@
 <h1 align="center">Hola, soy Agustin 👋 </h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
-
 -------------------
 &emsp;
 <h3 align="left">
@@ -21,16 +19,4 @@
 
 &emsp;
 
-## 🛠️ Mis habilidades
--------------------
-👨‍💻 Lenguajes de programación
-Java C Phyton Javascript 
 
-🧰 Frameworks 
-SpringBoot
-
-🗄️ Databases 
-GitHub Pages  MySQL 
-
-💻 Software que uso
-Git Stack Overflow IntelliJ IDEA
