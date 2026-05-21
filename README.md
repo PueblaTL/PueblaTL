@@ -62,14 +62,6 @@
 ### Mi sistema operativo:
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
--------------------
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Codigo" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PueblaTL&show_icons=true&theme=dark&locale=en&layout=compact" alt="PueblaTL" /></p>
-
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PueblaTL&show_icons=true&theme=dark&locale=en" alt="PueblaTL" /></p>
 <br><br><br><br><br><br><br><br><br><br>
