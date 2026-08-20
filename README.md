@@ -62,12 +62,5 @@
 ### Mi sistema operativo:
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PueblaTL&show_icons=true&theme=dark&locale=en" alt="PueblaTL" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PueblaTL&theme=dark" alt="PueblaTL" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
 
 
